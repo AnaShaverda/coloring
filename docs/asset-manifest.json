@@ -1,0 +1,131 @@
+[
+  {
+    "path": "public/illustrations/sandwich/parent/brush.png",
+    "width": 2070,
+    "height": 298,
+    "alpha": true
+  },
+  {
+    "path": "public/illustrations/sandwich/parent/cheese.png",
+    "width": 1405,
+    "height": 874,
+    "alpha": true
+  },
+  {
+    "path": "public/illustrations/sandwich/parent/cucumber.png",
+    "width": 1205,
+    "height": 1103,
+    "alpha": true
+  },
+  {
+    "path": "public/illustrations/sandwich/parent/half-sandwich.png",
+    "width": 1470,
+    "height": 971,
+    "alpha": true
+  },
+  {
+    "path": "public/illustrations/sandwich/parent/lettuce.png",
+    "width": 1435,
+    "height": 961,
+    "alpha": true
+  },
+  {
+    "path": "public/illustrations/sandwich/parent/paper.png",
+    "width": 1055,
+    "height": 1491,
+    "alpha": false
+  },
+  {
+    "path": "public/illustrations/sandwich/parent/sauce.png",
+    "width": 1271,
+    "height": 965,
+    "alpha": true
+  },
+  {
+    "path": "public/illustrations/sandwich/parent/tomato-slices.png",
+    "width": 1425,
+    "height": 933,
+    "alpha": true
+  },
+  {
+    "path": "public/illustrations/sandwich/parent/tomato.png",
+    "width": 1155,
+    "height": 1194,
+    "alpha": true
+  },
+  {
+    "path": "public/illustrations/sandwich/parent/whole-sandwich.png",
+    "width": 1312,
+    "height": 1199,
+    "alpha": true
+  },
+  {
+    "path": "public/illustrations/sandwich/kids/coloring-a4.png",
+    "width": 2480,
+    "height": 3508,
+    "alpha": false,
+    "note": "Production file upscaled from retained generated master; not native 300 dpi"
+  },
+  {
+    "path": "public/illustrations/sandwich/kids/sandwich-coloring-a4.png",
+    "width": 2480,
+    "height": 3508,
+    "alpha": false,
+    "note": "Production file upscaled from retained generated master; not native 300 dpi"
+  },
+  {
+    "path": "public/illustrations/cinnamon/parent/brush.png",
+    "width": 2050,
+    "height": 291,
+    "alpha": true
+  },
+  {
+    "path": "public/illustrations/cinnamon/parent/butter.png",
+    "width": 1486,
+    "height": 979,
+    "alpha": true
+  },
+  {
+    "path": "public/illustrations/cinnamon/parent/cinnamon-sticks.png",
+    "width": 1450,
+    "height": 881,
+    "alpha": true
+  },
+  {
+    "path": "public/illustrations/cinnamon/parent/egg.png",
+    "width": 1101,
+    "height": 1072,
+    "alpha": true
+  },
+  {
+    "path": "public/illustrations/cinnamon/parent/icing-bowl.png",
+    "width": 1406,
+    "height": 1070,
+    "alpha": true
+  },
+  {
+    "path": "public/illustrations/cinnamon/parent/roll-pan.png",
+    "width": 1519,
+    "height": 1011,
+    "alpha": true
+  },
+  {
+    "path": "public/illustrations/cinnamon/parent/roll-plate.png",
+    "width": 1299,
+    "height": 1082,
+    "alpha": true
+  },
+  {
+    "path": "public/illustrations/cinnamon/parent/single-roll.png",
+    "width": 1292,
+    "height": 1144,
+    "alpha": true
+  },
+  {
+    "path": "public/illustrations/cinnamon/kids/coloring-a4.png",
+    "width": 2480,
+    "height": 3508,
+    "alpha": false,
+    "note": "Production file upscaled from retained generated master; not native 300 dpi"
+  }
+]
